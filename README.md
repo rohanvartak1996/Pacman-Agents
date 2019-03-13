@@ -16,3 +16,8 @@ Pacman Genetic
 
 Pacman Expectimax
 1) Implementation of Expectimax Agent for Pacman with a custom evaluation function.
+
+All the agents are implemented in Pyhton 2.7
+
+To run the agent place the agent file in the pacman folder and run the following command on the terminal:
+python pacman.py -p AgentName
