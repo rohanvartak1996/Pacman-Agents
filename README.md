@@ -22,7 +22,7 @@ Pacman Expectimax
 
 All the agents are implemented in Pyhton 2.7
 
-To run the agent place the agent file in the pacman folder and run the following command on the terminal:
+To run the agent place the agent file in the pacman folder, rename it to pacmanAgents.py and run the following command on the terminal:
 
 python pacman.py -p AgentName
 
